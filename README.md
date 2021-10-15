@@ -26,11 +26,19 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. Explain the differences between `.map`, `.reduce` and `.filter` and describe a use case for each. 
 
+	The .map method returns a new array and allows if else statements. The .reduce changes the original array and returns a single number. The .filter method takes out anything that does not come back as true to the conditional statement, in the original array.
+
 2. Explain the difference between a callback and a higher order function.
+	
+	A higher order function receives another function. Its like a receiver in football. A callback is a function that passes into another function. Its like a quarterback. I dont even like football.
 
 3. Explain what a closure is.
 
+	A closure is when a function that has been initialized into another function, reaches outside of its comfortable hole to grasp at what others have.
+
 4. Describe the four principles of the 'this' keyword.
+
+	The first and easiest is the window binding, basically its a syntax error. Then there is implicit binding. This is when 
 
 5. Why do we need super() in an extended class?
 
